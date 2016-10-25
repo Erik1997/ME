@@ -2,7 +2,7 @@
   "room":   "Music Europe EN/CZ/SK",
   "author": "Erik1997",
   "icon":   "https://vgy.me/ZoI4qM.png",
-  "css":    "",
+  "css":    "https://rawgit.com/Erik1997/ME/master/ME.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot":    true,
